@@ -51,11 +51,11 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "c:/Users/Jan/OneDrive/_Coding/UdemyC/Chapter12_Advanced1/Timing",
-      "program": "c:/Users/Jan/OneDrive/_Coding/UdemyC/Chapter12_Advanced1/Timing/build/Release/outRelease",
+      "externalConsole": false,
+      "cwd": "/home/pd/HDD2/Dropbox/C_Programmieren_Jan_Schaffranek/GitTests/UdemyC/Chapter05_Functions/FunctionIntro",
+      "program": "/home/pd/HDD2/Dropbox/C_Programmieren_Jan_Schaffranek/GitTests/UdemyC/Chapter05_Functions/FunctionIntro/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "C:/cygwin64/bin/gdb.exe",
+      "miDebuggerPath": "gdb",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
